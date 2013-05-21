@@ -5,7 +5,7 @@ Created on Mon Mar 26 11:42:13 2012
 @author: Makaye
 """
 import os
-os.sys.path.append('/share/data/users/js2746_Jason/Scripts/eclipse/PyEprime/src')
+os.sys.path.append('/share/data/users/js2746_Jason/Scripts/eclipse/RANN_Eprime')
 import glob
 import RANN_EPrime2
 import datetime

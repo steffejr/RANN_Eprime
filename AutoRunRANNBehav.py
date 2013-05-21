@@ -10,7 +10,7 @@ import fnmatch
 import datetime
 import shutil
 import filecmp
-os.sys.path.append('/share/data/users/js2746_Jason/Scripts/eclipse/PyEprime/src')
+os.sys.path.append('/share/data/users/js2746_Jason/Scripts/eclipse/RANN_Eprime')
 import Run_RANN_Behav
 BasePath = '/share/studies/RANN/DesignFiles'
 FileName = 'RANN_BehavioralData_'
